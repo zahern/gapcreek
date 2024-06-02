@@ -590,6 +590,7 @@ def main(args):
 
     frame_capture = 0
     FROZEN = 0
+
     max_attempts = 3
     print(f'current time stamp is {date_time_obj}')
     error_counter = 0
