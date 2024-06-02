@@ -1,0 +1,57 @@
+<camera width="640" height="360">
+    <region>
+        <!-- point 111 -->
+        <correspondance wx="492653.429" wy="6961882.838" ix="542" iy="150" />
+        <!-- point 110 -->
+        <correspondance wx="492654.214" wy="6961877.902" ix="631" iy="231" />
+        <!-- point 102 -->
+        <correspondance wx="492647.071" wy="6961879.006" ix="384" iy="167" />
+        <!-- point 103 -->
+        <correspondance wx="492646.367" wy="6961883.952" ix="341" iy="98" />
+    </region>
+
+    <region>
+        <!-- point 112 -->
+        <correspondance wx="492652.826" wy="6961887.799" ix="479" iy="106" />
+        <!-- point 111 -->
+        <correspondance wx="492653.429" wy="6961882.838" ix="542" iy="150" />
+        <!-- point 103 -->
+        <correspondance wx="492646.367" wy="6961883.952" ix="341" iy="98" />
+        <!-- point 104 -->
+        <correspondance wx="492645.756" wy="6961888.926" ix="324" iy="69" />
+    </region>
+
+    <region>
+        <!-- point 113 -->
+        <correspondance wx="492652.410" wy="6961892.781" ix="440" iy="83" />
+        <!-- point 112 -->
+        <correspondance wx="492652.826" wy="6961887.799" ix="479" iy="106" />
+        <!-- point 104 -->
+        <correspondance wx="492645.756" wy="6961888.926" ix="324" iy="69" />
+        <!-- point 106 -->
+        <correspondance wx="492645.369" wy="6961893.911" ix="318" iy="54" />
+    </region>
+
+    <region>
+        <!-- point 114 -->
+        <correspondance wx="492652.128" wy="6961897.774" ix="416" iy="67" />
+        <!-- point 113 -->
+        <correspondance wx="492652.410" wy="6961892.781" ix="440" iy="83" />
+        <!-- point 106 -->
+        <correspondance wx="492645.369" wy="6961893.911" ix="318" iy="54" />
+        <!-- point 107 -->
+        <correspondance wx="492645.145" wy="6961898.906" ix="317" iy="46" />
+    </region>
+
+    <region>
+        <!-- point 126 -->
+        <correspondance wx="492651.999" wy="6961902.778" ix="406" iy="60" />
+        <!-- point 114 -->
+        <correspondance wx="492652.128" wy="6961897.774" ix="416" iy="67" />
+        <!-- point 107 -->
+        <correspondance wx="492645.145" wy="6961898.906" ix="317" iy="46" />
+        <!-- point 108 -->
+        <correspondance wx="492645.083" wy="6961903.906" ix="318" iy="40" />
+    </region>
+
+</camera>

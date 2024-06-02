@@ -1,0 +1,12 @@
+<camera width="640" height="360">
+    <region>
+        <!-- point -->
+        <correspondance wx="" wy="" ix="" iy="" />
+        <!-- point -->
+        <correspondance wx="" wy="" ix="" iy="" />
+        <!-- point -->
+        <correspondance wx="" wy="" ix="" iy="" />
+        <!-- point -->
+        <correspondance wx="" wy="" ix="" iy="" />
+    </region>
+</camera>

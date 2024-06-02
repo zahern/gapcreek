@@ -1,0 +1,42 @@
+<camera width="640" height="360">
+    <region>
+        <!-- point 307 -->
+        <correspondance wx="492721.702" wy="6961485.399" ix="77" iy="192" />
+        <!-- point 308 -->
+        <correspondance wx="492721.808" wy="6961480.267" ix="219" iy="133" />
+        <!-- point 315 -->
+        <correspondance wx="492714.616" wy="6961477.429" ix="475" iy="140" />
+        <!-- point 316 -->
+        <correspondance wx="492714.504" wy="6961482.947" ix="421" iy="228" />
+    </region>
+    <region>
+        <!-- point 308 -->
+        <correspondance wx="492721.808" wy="6961480.267" ix="219" iy="133" />
+        <!-- point 309 -->
+        <correspondance wx="492722.047" wy="6961475.218" ix="304" iy="103" />
+        <!-- point 314 -->
+        <correspondance wx="492714.762" wy="6961472.388" ix="491" iy="110" />
+        <!-- point 315 -->
+        <correspondance wx="492714.616" wy="6961477.429" ix="475" iy="140" />
+    </region>
+    <region>
+        <!-- point 309 -->
+        <correspondance wx="492722.047" wy="6961475.218" ix="304" iy="103" />
+        <!-- point 310 -->        
+        <correspondance wx="492722.016" wy="6961470.253" ix="360" iy="90" />
+        <!-- point 313-->
+        <correspondance wx="492714.832" wy="6961467.301" ix="501" iy="95" />
+        <!-- point 314 -->
+        <correspondance wx="492714.762" wy="6961472.388" ix="491" iy="110" />
+    </region>
+    <region>
+        <!-- point 310 -->
+        <correspondance wx="492722.016" wy="6961470.253" ix="360" iy="90" />
+        <!-- point 311 -->
+        <correspondance wx="492722.251" wy="6961465.221" ix="391" iy="80" />
+        <!-- point 312 -->
+        <correspondance wx="492715.063" wy="6961462.150" ix="504.5" iy="85.5" />
+        <!-- point 313 -->
+        <correspondance wx="492714.832" wy="6961467.301" ix="501" iy="95" />
+    </region>
+</camera>

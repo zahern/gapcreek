@@ -1,0 +1,52 @@
+<camera width="640" height="360">
+    <region>
+        <!-- point 109 -->
+        <correspondance wx="492655.166" wy="6961872.993" ix="123" iy="190" />
+        <!-- point 121 -->
+        <correspondance wx="492656.223" wy="6961868.106" ix="278" iy="154" />
+        <!-- point 116 -->
+        <correspondance wx="492649.890" wy="6961864.160" ix="529" iy="188" />
+        <!-- point 115 -->
+        <correspondance wx="492648.827" wy="6961869.046" ix="420" iy="268" />
+    </region>
+
+    <region>
+        <!-- point 121 -->
+        <correspondance wx="492656.223" wy="6961868.106" ix="278" iy="154" />
+        <!-- point 122 -->
+        <correspondance wx="492657.351" wy="6961863.235" ix="381" iy="135" />
+        <!-- point 117 -->
+        <correspondance wx="492651.161" wy="6961859.325" ix="560" iy="158" />
+        <!-- point 116 -->
+        <correspondance wx="492649.890" wy="6961864.160" ix="529" iy="188" />
+    </region>
+
+    <region>
+        <!-- point 122 -->
+        <correspondance wx="492657.351" wy="6961863.235" ix="381" iy="135" />
+        <!-- point 123 -->
+        <correspondance wx="492658.646" wy="6961858.406" ix="442" iy="127" />
+        <!-- point 118 -->
+        <correspondance wx="492652.545" wy="6961854.536" ix="578" iy="138" />
+        <!-- point 117 -->
+        <correspondance wx="492651.161" wy="6961859.325" ix="560" iy="158" />
+    </region>
+
+    <region>
+        <!-- point 123 -->
+        <correspondance wx="492658.646" wy="6961858.406" ix="442" iy="127" />
+        <!-- point 124 -->
+        <correspondance wx="492659.961" wy="6961853.578" ix="477" iy="121" />
+        <!-- point 125 -->
+        <correspondance wx="492661.375" wy="6961848.778" ix="499" iy="118" />
+        <!-- point 128 -->
+        <correspondance wx="492662.832" wy="6961843.989" ix="515.5" iy="117.1" />
+        <!-- point 118 -->
+        <correspondance wx="492652.545" wy="6961854.536" ix="578" iy="138" />
+        <!-- point 117 -->
+        <correspondance wx="492651.161" wy="6961859.325" ix="560" iy="158" />
+    </region>
+    
+    <!-- points 119, 120, 127 obscured by a tree -->    
+    
+</camera>
